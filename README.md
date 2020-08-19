@@ -16,7 +16,7 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 - 🌱 I'm currently learning __cybersecurity__
 - 👯 I'm looking to collaborate on <a href="https://github.com/tobeprint3D">tobeprint3d.com</a> 
 
-- 💬 Ask me about __pairprogrsamming__
+- 💬 Ask me about __pairprogramming__
 - ⚡ Fun fact: I probably speak your language :)
 
 
