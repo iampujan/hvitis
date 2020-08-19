@@ -8,7 +8,7 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 
 ## Find me around the web 🌎: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
 - Blogging and sharing code on  <a href="https://www.hvitis.dev">hvitis.dev</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/adampi/">LinkedIn</a> 💼
+- Add me on <a href="https://www.linkedin.com/in/adampi/">LinkedIn</a> 💼
 
 ### Currently:
 
