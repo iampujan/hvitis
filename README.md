@@ -9,20 +9,15 @@ __I__ am a Software Tester who is passionate about making open-source more acces
 ## Find me around the web 🌎: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
 - Blogging and sharing code on  <a href="https://www.hvitis.dev">hvitis.dev</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/adampi/">LinkedIn</a> 💼
-<!--
-**hvitis/hvitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Currently:
 
-- 🔭 I’m currently working on <a href="https://www.tobeprinted.com/">3D printing open-source book</a> 
-- 🌱 I’m currently learning __cybersecurity__
-- 👯 I’m looking to collaborate on <a href="https://github.com/tobeprint3D">tobeprint3d.com</a> 
+- 🔭 I'm currently working on <a href="https://www.tobeprinted.com/">3D printing open-source book</a> 
+- 🌱 I'm currently learning __cybersecurity__
+- 👯 I'm looking to collaborate on <a href="https://github.com/tobeprint3D">tobeprint3d.com</a> 
+
 - 💬 Ask me about __pairprogrsamming__
 - ⚡ Fun fact: I probably speak your language :)
--->
-
-
-___
 
 
 ## Technologies I like using:
