@@ -1,7 +1,7 @@
 
 # Hi, I'm Adam 💻
 
-<img src="" alt="banner that says Adam Piskorek - software tester, blogger and community organizer">
+![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
 I'm a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. I recently started studying Cybersecurity Master and I'm striving to become pentester.  My interest in the Django ecosystem led me to launch <a href="https://tobeprint3d.com/">tobeprint3D.com</a>, a 3D printing community for people who print. 
 
