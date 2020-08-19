@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
-I'm a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. I recently started studying Cybersecurity Master and I'm striving to become pentester.  My interest in the Django ecosystem led me to launch <a href="https://tobeprint3d.com/">tobeprint3D.com</a>, a 3D printing community for people who print. 
+__I__ am a Software Tester who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJS and Django. I recently started studying Cybersecurity Master and I'm striving to become pentester.  My interest in the Django ecosystem led me to launch <a href="https://tobeprint3d.com/">tobeprint3D.com</a>, a 3D printing community for people who print.
 
 
 ## Find me around the web 🌎: <a href="hvitis.dev"><img align="left" width="250" height="150" src="https://raw.githubusercontent.com/hvitis/hvitis/master/social_dino_with_hat.gif"></a>
